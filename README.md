@@ -1,2 +1,1 @@
-# openerp-valueobjects-ptbr
-OpenERP Value Objects Package (pt-br)
+# OpenERP Value Objects Package (pt-br)
